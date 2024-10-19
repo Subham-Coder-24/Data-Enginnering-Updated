@@ -1,0 +1,4 @@
+Average quiz score per course.
+Average time spent per employee on modules.
+Feedback rating distributions by course or employee.
+Engagement completion rates.
